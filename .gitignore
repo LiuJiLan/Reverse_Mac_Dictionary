@@ -1,0 +1,9 @@
+
+.idea/*
+*.DS_Store
+asset/*
+cache/*
+__pycache__/*
+reverse_data.py
+*.pkl
+output/*
